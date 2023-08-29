@@ -43,6 +43,10 @@ color: gray;
 	font-family: 'Vollkorn', serif;	
 }
 
+.rosario {
+	font-family: 'Rosario', sans-serif;
+}
+
 .test {
 	color: red;
 	outline: solid blue;
